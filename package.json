@@ -1,19 +1,16 @@
 {
-  "name": "todo7",
+  "name": "syncapp",
   "version": "1.0.0",
-  "description": "Framework7 todo demo app",
+  "description": "Hakaton app",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nolimits4web/ToDo7.git"
+    "url": "https://github.com/randop/hakaton.git"
   },
-  "author": "Vladimir Kharlampidi",
+  "author": ":)",
   "license": [
     "MIT"
   ],
-  "bugs": {
-    "url": "https://github.com/nolimits4web/ToDo7/issues"
-  },
-  "homepage": "http://www.idangero.us/framework7/",
+  "homepage": "http://app.com",
   "engines": {
     "node": ">= 0.10.0"
   },
